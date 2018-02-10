@@ -1,0 +1,7 @@
+{
+  "realm": "test",
+  "auth-server-url": "http://localhost:8081/auth",
+  "ssl-required": "external",
+  "resource": "demo",
+  "public-client": true
+}

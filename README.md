@@ -1,5 +1,13 @@
 # Authdemoapp
 
+## Demo Authentication App: Angular + keycloak + ng-patternfly
+
+Patternfly vertical navigation: `https://rawgit.com/patternfly/patternfly-ng/master-dist/dist-demo/#/navigation`
+Keycloak Js adapter: `http://www.keycloak.org/docs/latest/securing_apps/index.html#javascript-adapter-reference`
+keycloak docker instance: `docker run -e KEYCLOAK_USER=admin -e KEYCLOAK_PASSWORD=admin -p 8080:8080 jboss/keycloak `
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 ## Development server
